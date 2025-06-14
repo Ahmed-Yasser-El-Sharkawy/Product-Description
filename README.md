@@ -34,11 +34,11 @@ product-description-generator/
 ├── Data/
 │   ├── data_for_product_description.txt           # Raw product titles and details
 │   ├── link of data images in drive.txt           # Image links used for classification
-│   └── Saving model stutes/                       # Directory for all trained model files
-│       ├── Main_Classifier_best_model.pth         # General classifier model
-│       ├── Phone_best_model.pth                   # Specialized model for phones
-│       ├── Soda_drinks_best_model.pth             # Specialized model for soda
-│       └── best_model (6).pth                     # Possibly older or backup model
+│── Saving model stutes/                       # Directory for all trained model files
+│ ├── Main_Classifier_best_model.pth         # General classifier model
+│ ├── Phone_best_model.pth                   # Specialized model for phones
+│ ├── Soda_drinks_best_model.pth             # Specialized model for soda
+│ └── best_model (6).pth                     # Possibly older or backup model
 │
 ├── Clothes_Classifier.ipynb                       # Training notebook for clothing classifier
 ├── Clothing_Model_Classifier.ipynb                # Clothing model logic and training
