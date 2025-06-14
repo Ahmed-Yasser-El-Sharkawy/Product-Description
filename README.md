@@ -145,6 +145,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
----
-
-Let me know if you’d like a version tailored for deployment on HuggingFace Spaces or Streamlit!
